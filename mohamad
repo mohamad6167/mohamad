@@ -10,5 +10,3 @@ vless://fab5937c-b0d6-49dc-c412-055d6fbeb0e1@tobank.ir:2096?path=%2F&security=tl
 trojan://Jy5z4Yl3ez@sanjesh.org:2083?path=%2F&security=tls&host=clovis.fresno118.shop&type=ws&sni=clovis.fresno118.shop#TROJAN+WS
 vless://bf4e03c1-43cc-4ee2-851b-15609f49a90f@65.109.213.193:443?mode=gun&security=reality&encryption=none&pbk=LlYD2nNVAvyjNvjZGZh4R8PkMIwkc6EycPTvR2LE0nQ&fp=chrome&type=grpc&serviceName=&sni=cloud.google.com&sid=1b7a7f85#VLESS+REALITY
 vless://89aa7fc0-cf66-482d-f13b-79926665a7e7@65.109.213.193:80?path=%2F&security=reality&encryption=none&pbk=nUsxtBrn7qkXwwQFcDD8UZCRorvPaG6ftj7wmEyZbgI&host=irna.ir&fp=firefox&type=http&sni=yahoo.com&sid=c6b895eb#VLESS+REALITY+%281%29
-vless://89aa7fc0-cf66-482d-f13b-79926665a7e7@65.109.213.193:80?security=reality&encryption=none&pbk=sPCZyzhsC4tYQJTx6gXyJ7rvB8yYlTOB2dviPXqjhDA&headerType=http&fp=firefox&type=tcp&sni=kaspersky.com&sid=c6b895eb#VLESS
-vless://bf4e03c1-43cc-4ee2-851b-15609f49a90f@65.109.213.193:443?mode=gun&security=reality&encryption=none&pbk=NvmGdshTgV3H8emq2Zj0NzNzYMjdEfv0bM7tebfA4DA&fp=firefox&type=grpc&serviceName=&sni=cloud.google.com&sid=1b7a7f85#VLESS+REALITY
