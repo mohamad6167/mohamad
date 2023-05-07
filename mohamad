@@ -1,5 +1,5 @@
 vmess://eyJhZGQiOiI5NS4xNzkuMjAyLjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImVlNzdlM2JkLWVjMjUtNDBhZC1mM2E4LWEwMDYwZDQ2NzFiOCIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwNTMiLCJwcyI6InZtZXNzIGdycGMtbXRuIiwic2N5IjoiYXV0byIsInNuaSI6Im1lbmRvdGEuZnJlc25vMTE0LnNob3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
-vless://7d5bd310-ffd4-4143-ad77-40041889d9b4@63.141.128.3:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=mendota.fresno114.shop#vless+grpc-mci
+vless://7d5bd310-ffd4-4143-ad77-40041889d9b4@mci.fresno114.shop:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=mendota.fresno114.shop#vless+grpc-mci
 vless://85c46131-ee6c-4fd9-ef70-6d7e3d5374b6@late-fog-2f18.mendotafresno114shop.workers.dev:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=late-fog-2f18.mendotafresno114shop.workers.dev&fp=randomized&type=ws&sni=late-fog-2f18.mendotafresno114shop.workers.dev#vless+ws+tls-mci
 vless://0a8caa26-ab36-4adc-dbf0-85b2f3f4e7ab@136.244.81.173:2096?path=%2F&security=tls&encryption=none&host=mendota.fresno114.shop&type=ws&sni=mendota.fresno114.shop#vless-ws-mtn
 trojan://pLmZXG9qCs@95.179.160.117:2087?mode=gun&security=tls&type=grpc&serviceName=&sni=mendota.fresno114.shop#trojan+grpc-mtn
