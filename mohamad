@@ -15,6 +15,7 @@ vless://f3410393-df60-4947-87b6-0baa84a028d7@45.32.184.8:443?security=reality&en
 vless://f2b6cbd2-c651-408e-9679-0e438eb274da@45.32.187.122:443?security=reality&encryption=none&pbk=MIWaf5M-Kt3n_aFCTXeXyX_kJO0k5k9UcWrMBzZXRhs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bmw.com&sid=f035e390b973d0e9#SING-BOX-HOLLAND%F0%9F%87%B3%F0%9F%87%B12
 vless://7ecb7fe9-3ca4-498c-bc68-fbd01b704f72@78.141.223.169:443?security=reality&encryption=none&pbk=_oR94k4D3KpH3DjN1hkUaE7MXYXeJblIevMTG0OIFGY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=avira.com&sid=399018ec757c68d1#SING-BOX-HOLLAND%F0%9F%87%B3%F0%9F%87%B13
 vless://645f971e-612d-4fa1-a684-e9cebe7d3704@64.176.169.121:443?security=reality&encryption=none&pbk=NUVi-cOWm4mxE-yz_dOEHvdwaZdekuFoRtpQcd6UU2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ledger.com&sid=6c062dae8dc9c863#SING-BOX-TEL+AVIV%F0%9F%87%AE%F0%9F%87%B1
+vless://95a28658-815a-404d-b3b6-a5fc46dbae38@217.69.6.229:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ikea.com&fp=chrome&security=reality&pbk=8kYgT2AVdiI2Be8VnzO0rQtLcoL75hZoTPr7HrYp5k0&sid=f0a779ce3a180d39#SING-BOX-PARIS%F0%9F%87%A8%F0%9F%87%B51
 hysteria://45.32.184.8:2053/?insecure=1&upmbps=11&downmbps=55&obfs=xplus&obfsParam=62802314#ams%F0%9F%87%B3%F0%9F%87%B1
 hysteria://80.240.29.13:2052/?insecure=1&upmbps=11&downmbps=55&obfs=xplus&obfsParam=62802314#HYSTRIYA%F0%9F%87%A9%F0%9F%87%AA
 naive+https://mohamad:mo62802314@45.32.184.8:2053/?sni=avast.huron6167.site&extra-headers=anten.ir#NAVI%F0%9F%87%B3%F0%9F%87%B1
