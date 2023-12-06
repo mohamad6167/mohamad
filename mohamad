@@ -9,7 +9,7 @@ vless://0305e131-dcfe-47f4-8e7d-0e6d85539636@185.143.233.120:443?path=%2Fsoan54h
 vless://5e7831cd-676d-4f41-8da4-99a1dcbc5d04@209.97.137.109:2052?security=reality&encryption=none&pbk=qw6Mr-l7Rl_VoNVdTT9lbwnaxz7talTsVkfWGFxs3Hc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bayer.com&sid=fcf799a05262539e#singbox%7C%F0%9F%87%AC%F0%9F%87%A7
 vless://b9277a80-0361-4336-80c1-4e45c9b852ba@188.166.138.221:2086?security=reality&encryption=none&pbk=mDmHO23iLJItDX-zm_41C0hjgMkxHrrnvAQUjtoc_FI&headerType=none&fp=firefox&type=tcp&sni=photopea.com&sid=bdb2376e#xray-tcp%7C%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiJyYW5kc3RhZC5mcmVzbm8xMTQuc2hvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiYWE5OTY1NS1jZmMyLTQwZjgtODNhNy1lYzkwZjI2OTJlODkiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJ2bWVzcy1ncnBjfPCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6InJhbmRzdGFkLmZyZXNubzExNC5zaG9wIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
-vless://7f14d073-5e06-4b5f-9403-c823f6cd4310@70.34.223.246:2095?security=reality&encryption=none&pbk=xno4q3RZTEHmDp2OgkA2m4VNEIHUPba2nfLoEQDuzQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.gillette.com&sid=97d50f3c42fe9b9a#SING-BOX%7C%F0%9F%87%B8%F0%9F%87%AA
+vless://8dc505c7-a1c3-42ba-94b2-d89ff3ec7691@65.20.114.245:2052?security=reality&encryption=none&pbk=QnwkFAQRocxOwj00txkdD0hDk3WzYvnWZptgAEg7SDQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.gillette.com&sid=8daeed2bc1066c96#SING-BOX%7C%F0%9F%87%B8%F0%9F%87%AA
 hy2://SdjOxUdEIPkd2i48@143.244.204.220:2052/?insecure=1&sni=bing.com#Hysteria%7C%F0%9F%87%A9%F0%9F%87%AA
 hy2://F2SySknW0SXdap5a@45.32.238.195:2052/?insecure=1&sni=bing.com#Hysteria%7C%F0%9F%87%B3%F0%9F%87%B1
-hy2://gKtARhth6LGGNYfW@70.34.223.246:2052/?insecure=1&sni=bing.com#Hysteria%7C%F0%9F%87%B8%F0%9F%87%AA
+hy2://4NaaeCgs2pl0FUbS@65.20.114.245:443/?insecure=1&sni=bing.com#Hysteria%7C%F0%9F%87%B8%F0%9F%87%AA
