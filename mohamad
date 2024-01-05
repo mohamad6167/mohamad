@@ -1,5 +1,5 @@
 vmess://eyJhZGQiOiJzYXJzZGVuLmh1cm9uNjE2Ny5pbmZvIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImIzZGM5ZmI1LWU2ZGQtNDVjYS1hYmFkLTI3NmMzZDhkZWE0NSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwODMiLCJwcyI6InZtZXNzLWdycGN88J+HuvCfh7IiLCJzY3kiOiJhdXRvIiwic25pIjoic2Fyc2Rlbi5odXJvbjYxNjcuaW5mbyIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
-vless://631d8f55-0afd-4170-8e4a-5ebe5eec6778@164.90.252.244:443?security=reality&encryption=none&pbk=GULvrLeP-Hzp4agmVhtX403MlSis_U8NRpR_FixsPyk&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=gillette.com&sid=2d4bbe88#xray-tcp%7C%F0%9F%87%BA%F0%9F%87%B2
+vless://68f8f9fc-a5ad-44f4-90c9-d398af97b6dd@24.144.64.211:443?path=%2F&security=none&encryption=none&type=ws#vless-ws%7C%F0%9F%87%BA%F0%9F%87%B2
 vless://2f60fab1-3c0a-440b-83a9-a8dbc8e5aa18@159.203.34.41:443?security=reality&encryption=none&pbk=9pf90VXVHQjVezNRq9OrrVU3jbLJfB7aA4yE-XhgLTY&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=gillette.com&sid=4d3ca4b7#xray-tcp%7C%F0%9F%87%A8%F0%9F%87%A6
 vmess://eyJhZGQiOiJicnVlcm4uaHVyb242MTY3LmluZm8iLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2M2MzMTA0NS1iZTRhLTQ5NzQtOWM0MS02NGU0NGRkMGVkMGYiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDgzIiwicHMiOiJ2bWVzcy1ncnBjfPCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6ImJydWVybi5odXJvbjYxNjcuaW5mbyIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
 vless://978e214f-906b-4445-ac7d-d98d4170be44@64.176.188.197:443?security=none&encryption=none&headerType=http&type=tcp#vless-tcp%7C%F0%9F%87%AC%F0%9F%87%A7
@@ -8,4 +8,4 @@ vmess://eyJhZGQiOiJnZXRsZXkuaHVyb242MTY3LnVzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6
 vless://1178b05e-4666-4450-a85f-1667a70c87ff@65.20.104.200:443?security=reality&encryption=none&pbk=rFV7COvMNAm6gePN5axp3ddcyYa9z9loIIneaaUOP3A&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=7-zip.org&sid=279c0c94#xray-tcp%7C%F0%9F%87%AA%F0%9F%87%A6
 hy2://QKChqYFBpyQILp7W@64.176.188.197:2053/?insecure=1&sni=bing.com#Hysteria%7C%F0%9F%87%AC%F0%9F%87%A7
 hy2://G9ZccvgjMUhROMr2@65.20.104.200:2053/?insecure=1&sni=bing.com#Hysteria%7C%F0%9F%87%AA%F0%9F%87%A6
-hy2://gZPUZZcIIVlFUtQJ@164.90.252.244:2053/?insecure=1&sni=bing.com#Hyteria%7C%F0%9F%87%BA%F0%9F%87%B2
+hy2://gZPUZZcIIVlFUtQJ@24.144.64.211:2053/?insecure=1&sni=bing.com#Hyteria%7C%F0%9F%87%BA%F0%9F%87%B2
