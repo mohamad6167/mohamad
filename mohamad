@@ -7,3 +7,8 @@ vless://164b5400-3c40-41e4-a52d-11940b57c3a8@[::ffff:40b0:bbe1]:443?path=%2F&sec
 vless://b90487ef-37d6-431d-a508-e2a8e23fbc68@chilson.huron6167.us:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=chilson.huron6167.us#vless-grpc%7C%F0%9F%87%AC%F0%9F%87%A7
 vless://240ba304-5a11-413d-bf32-411d92b3f237@[::ffff:4114:68d5]:443?path=%2F&security=none&encryption=none&type=ws#vless-ws%7C%F0%9F%87%AA%F0%9F%87%A6
 vless://cd0f3c02-52ca-4c65-be60-565287bae61e@getley.huron6167.us:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=getley.huron6167.us#vless-grpc%7C%F0%9F%87%AA%F0%9F%87%A6
+hy2://bVNNv11YrpFVlg04@65.20.104.213:2096/?insecure=1&sni=bing.com#Hysteria%7C%F0%9F%87%AA%F0%9F%87%A6
+hy2://gZPUZZcIIVlFUtQJ@143.198.177.44:2053/?insecure=1&sni=bing.com#Hyteria%7C%F0%9F%87%BA%F0%9F%87%B2
+hy2://ojMBVOfbpyMM6XmL@147.182.153.52:2053/?insecure=1&sni=bing.com#Hysteria%7C%F0%9F%87%A8%F0%9F%87%A6
+hy2://SlUUIZhx96OHmvVc@207.154.213.26:2053/?insecure=1&sni=bing.com#Hysteria%7C%F0%9F%87%A9%F0%9F%87%AA
+hy2://mHVEk89U11xw8OtY@64.176.187.225:2096/?insecure=1&sni=bing.com#Hysteria%7C%F0%9F%87%AC%F0%9F%87%A7
