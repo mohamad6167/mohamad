@@ -4,4 +4,5 @@ vmess://eyJhZGQiOiJlcmlzd2lsLnJhZGljb25kb2xpLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiaDIs
 vless://08443431-393c-452d-996a-5d874e85e7ef@wynigen.radicondoli.net:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=wynigen.radicondoli.net&fp=chrome&type=ws&sni=wynigen.radicondoli.net#vless-ws%7C%F0%9F%87%A6%F0%9F%87%AA
 vless://00178115-020d-440f-f6d0-982c2824087b@[::ffff:2d93:fa33]:48628?path=%2F&security=none&encryption=none&type=ws#vless-ws%7C%F0%9F%87%A6%F0%9F%87%AA
 vless://ec603adb-f59a-4ae2-ea19-0b351c8b809d@kiuruvesi.radicondoli.net:2053?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=kiuruvesi.radicondoli.net&fp=firefox&type=ws&sni=kiuruvesi.radicondoli.net#vless-ws%7C%F0%9F%87%AB%F0%9F%87%AE
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206R2JZZHdqcXZxc0RPL0pVTTRRREp2RmtjbURLZFhuK3VYeXkxbk5PNytVTT06VFZTbVBiM3R4czFDMXVlMThiU2NTaFV2d1dyYVdvTDNvbGoxaSt1Rm0zVT0=@[::ffff:2d93:fa33]:25657#shadowsocks%7C%F0%9F%87%AB%F0%9F%87%AE
 vless://28f9ed5b-b0ca-4a15-8306-e28246678bad@[::ffff:2d93:fa33]:38893?path=%2F&security=none&encryption=none&type=ws#vless-ws%7C%F0%9F%87%AB%F0%9F%87%AE
