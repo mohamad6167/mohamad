@@ -1,14 +1,14 @@
 vless://81f66604-a52f-4567-f1f1-0dc118f557e4@[::ffff:5bdf:a9b3]:22877?path=%2F&security=none&encryption=none&type=httpupgrade#vless%7C%F0%9F%87%B8%F0%9F%87%AA
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206YlBwL2Jja0hCZUdVcHZZRXExU0wrWUZ0Ukd3Qlk2dnFJWVlVclAzeTBubz06VzBaSGZoYVhEa1pieUZGc3ZsZ1JrUXJLNU1HMVE2ZFcwZWNJeVV3K2VQWT0=@[::ffff:5bdf:a9b3]:48277#shadowsocks%7C%F0%9F%87%B8%F0%9F%87%AA
 vless://6b387a09-4ede-4128-eae6-10970d4e8c7c@leptokarya.marinoo.net:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=leptokarya.marinoo.net&fp=chrome&type=ws&sni=leptokarya.marinoo.net#vless-ws%7C%F0%9F%87%B8%F0%9F%87%AA
-vless://49c37d47-1d0d-48e0-8a93-ccec67f83b69@185.158.175.163:2053?path=%2F&security=none&encryption=none&host=Blubank.com&type=httpupgrade#tunnel%F0%9F%87%B8%F0%9F%87%AA
+vless://49c37d47-1d0d-48e0-8a93-ccec67f83b69@185.158.175.163:2053?security=none&encryption=none&headerType=none&type=tcp#tunnel%F0%9F%87%B8%F0%9F%87%AA
 vless://8306d895-1b96-4696-8a61-ec73e4a59966@[::ffff:5bdf:a9b3]:33407?path=%2F&security=none&encryption=none&type=httpupgrade#vless%7C%F0%9F%87%A6%F0%9F%87%AA
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206T250VllOSVk0bncxUzhDNmU3SGtMcG5vZDMrSk1KYWpXU0ZnTU1UMWZRYz06T1ppTkdVNmduaHlKSTA2MmhwNUtzdnM1R0hsMG5qOXA4WE1ObHNmdEFRRT0=@[::ffff:5bdf:a9b3]:15103#shadowsocks%7C%F0%9F%87%A6%F0%9F%87%AA
 vless://08443431-393c-452d-996a-5d874e85e7ef@wynigen.radicondoli.net:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=wynigen.radicondoli.net&fp=chrome&type=ws&sni=wynigen.radicondoli.net#vless-ws%7C%F0%9F%87%A6%F0%9F%87%AA
 vless://fafce16d-ad2d-432f-c607-b1dafe09f17d@[::ffff:5bdf:a9b3]:55416?path=%2F&security=none&encryption=none&type=httpupgrade#vless%7C%F0%9F%87%A9%F0%9F%87%AA
 vless://b38de282-8e26-458d-d1be-4392a8930484@kiuruvesi.radicondoli.net:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=kiuruvesi.radicondoli.net&fp=chrome&type=ws&sni=kiuruvesi.radicondoli.net#vless-ws%7C%F0%9F%87%A9%F0%9F%87%AA
 vless://db788b6d-296c-489f-9e4e-5acfa1073d7a@185.158.175.163:2083?path=%2F&security=none&encryption=none&host=Blubank.com&type=httpupgrade#tunnel%F0%9F%87%A9%F0%9F%87%AA
-vless://01cb2a92-36cd-4f15-d39b-8cd3c946cd35@185.158.175.163:443?path=%2F&security=none&encryption=none&host=Blubank.com&type=httpupgrade#tunnel%F0%9F%87%AC%F0%9F%87%A7
+vless://01cb2a92-36cd-4f15-d39b-8cd3c946cd35@185.158.175.163:443?security=none&encryption=none&headerType=none&type=tcp#tunnel%F0%9F%87%AC%F0%9F%87%A7
 vless://2b83644e-1e3d-4c58-a6fc-60c70dc80a18@[::ffff:5bdf:a9b3]:2087?path=%2F&security=reality&encryption=none&pbk=80PAuHdysnsvLah7p1ngnUru7bFgn09kPDLiTdOtoXo&fp=firefox&spx=%2F&type=http&sni=gillette.com#reality%7C%F0%9F%87%AC%F0%9F%87%A7
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206bTdZRzdIa3A0Z3JFeVJTNnpvdWczQkNMZ0JETWx3dzhFNVFhY3FvUnlMST06QU5lb0QwelNRMkZGei9vWU13U2ZSbWRwMVlxMWpPSlFDKy9rUms2ZzZGST0=@[::ffff:5bdf:a9b3]:22167#shadowsocks%7C%F0%9F%87%AC%F0%9F%87%A7
 vless://324270a7-80b2-42ad-c4f5-6d328fffeb59@[::ffff:5bdf:a9b3]:17284?path=%2F&security=none&encryption=none&type=httpupgrade#vless%7C%F0%9F%87%AC%F0%9F%87%A7
