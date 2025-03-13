@@ -1,7 +1,5 @@
-vless://a7db76bc-10fb-48cb-f672-d47a2090f0d8@94.182.152.199:36290?path=%2F&security=none&encryption=none&host=Blubank.com&type=httpupgrade#tunnel%F0%9F%87%AE%F0%9F%87%B9
+vless://a7db76bc-10fb-48cb-f672-d47a2090f0d8@94.182.152.199:36290?path=%2F&security=&encryption=none&host=Blubank.com&type=httpupgrade#tunnel%F0%9F%87%AE%F0%9F%87%B9
 vless://b62fc21e-12eb-4eee-9533-7fd8405f350e@94.182.152.199:55424?path=%2F&security=&encryption=none&host=Blubank.com&type=httpupgrade#tunnel%F0%9F%87%A9%F0%9F%87%AA
-vless://1ba035cb-f83d-4ec1-dc97-5ce3742d3312@94.182.152.199:17964?path=%2F&security=&encryption=none&host=Blubank.com&type=httpupgrade#tunnel%F0%9F%87%AD%F0%9F%87%B2
-vless://24841db6-64de-44af-9bed-745976fe2b37@94.182.152.199:53602?path=%2F&security=&encryption=none&host=Blubank.com&type=httpupgrade#tunnel%F0%9F%87%A8%F0%9F%87%AE
 vless://50af9719-2474-4bdd-c09c-b009f4afe641@94.182.152.199:47606?path=%2F&security=&encryption=none&host=Blubank.com&type=httpupgrade#tunnel%F0%9F%87%AB%F0%9F%87%B7
 vless://fd048758-0ec9-4ced-a26e-92e4971a6084@leptokarya.marinoo.net:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=leptokarya.marinoo.net&type=ws&sni=leptokarya.marinoo.net#vless-ws%7C%F0%9F%87%B8%F0%9F%87%AA
 vless://12ce7024-f468-4eac-fd51-e34b68825d20@94.182.152.199:45792?path=%2F&security=&encryption=none&host=Blubank.com&type=httpupgrade#tunnel%F0%9F%87%B8%F0%9F%87%AA
