@@ -1,9 +1,7 @@
-vless://7f038882-6879-4bbf-8d97-91956d82bcd3@94.182.152.202:2087?security=none&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%AC%F0%9F%87%A7
+vless://7f038882-6879-4bbf-8d97-91956d82bcd3@94.182.152.202:2087?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%AC%F0%9F%87%A7
 vless://1d76c5ae-acaf-4687-a694-8a858538c784@94.182.152.202:16879?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%AB%F0%9F%87%AE
 vless://1a9e0ffe-561d-47e4-8976-4e1b142338c1@94.182.152.202:30149?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%AB%F0%9F%87%B7
-vless://57d5671e-577e-4a90-a5eb-547bf918f428@94.182.152.202:2096?security=none&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%AE%F0%9F%87%AA
-vless://472ff27e-669b-4e9a-a641-5e96f1cbaf3a@94.182.152.202:2053?security=none&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%A9%F0%9F%87%AA
-vless://b032fabd-1405-4889-b0cd-0a10740d7765@fyresdal.marinoo.net:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=fyresdal.marinoo.net&fp=chrome&type=ws&sni=fyresdal.marinoo.net#vless-ws%7C%F0%9F%87%AE%F0%9F%87%B9
-vless://75ea1883-1c40-4338-a781-51a1e5bcf8a9@94.182.152.202:43207?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%AE%F0%9F%87%B9
+vless://57d5671e-577e-4a90-a5eb-547bf918f428@94.182.152.202:2096?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%AE%F0%9F%87%AA
+vless://472ff27e-669b-4e9a-a641-5e96f1cbaf3a@94.182.152.202:2053?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%A9%F0%9F%87%AA
 vless://52b914c4-cfc0-48d4-ab5c-222123985c65@94.182.152.202:33942?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%B8%F0%9F%87%AA
 vless://d70c528d-4332-4c98-93b5-d6a60acc838c@leptokarya.marinoo.net:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=leptokarya.marinoo.net&fp=chrome&type=ws&sni=leptokarya.marinoo.net#vless-ws%7C%F0%9F%87%B8%F0%9F%87%AA
