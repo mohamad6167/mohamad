@@ -1,5 +1,6 @@
-vless://1c28a05d-a133-42ef-9e2f-ee039fd34147@94.182.152.201:2086?security=none&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%BA%F0%9F%87%B2
-vless://75ea1883-1c40-4338-a781-51a1e5bcf8a9@94.182.152.201:2095?security=none&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel-fast%F0%9F%87%A9%F0%9F%87%AA
+vless://1185f55e-8b0a-4546-866c-a3e6b0aad878@18.132.114.69:80?mode=auto&path=%2Fpath&security=none&encryption=none&host=hoiana.global.ssl.fastly.net&type=xhttp#uk-xhttp%F0%9F%87%AC%F0%9F%87%A7
+vless://1c28a05d-a133-42ef-9e2f-ee039fd34147@94.182.152.201:2086?security=none&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel-fast%F0%9F%87%AB%F0%9F%87%AE
+vless://75ea1883-1c40-4338-a781-51a1e5bcf8a9@94.182.152.201:2095?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel-fast%F0%9F%87%A9%F0%9F%87%AA
 vless://7f038882-6879-4bbf-8d97-91956d82bcd3@94.182.152.201:2087?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%AC%F0%9F%87%A7
 vless://1d76c5ae-acaf-4687-a694-8a858538c784@94.182.152.201:16879?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%AB%F0%9F%87%AE
 vless://1a9e0ffe-561d-47e4-8976-4e1b142338c1@94.182.152.201:30149?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%AB%F0%9F%87%B7
