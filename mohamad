@@ -1,7 +1,7 @@
 vless://2b3fcbb7-0667-41c4-ba48-77c7c415b134@34.253.221.183:80?mode=auto&path=%2Froberts&security=reality&encryption=none&pbk=aEhVirA9kyszPp3MxS3Ymh3JY2Xw7HxpviWB8pJN4Bw&host=milano221.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=7-zip.org&sid=58#reality%7C%F0%9F%87%AE%F0%9F%87%AA
-vless://e0329fb7-bbe9-467e-9ea8-7b4bef21df3a@91.99.90.72:80?mode=auto&path=%2Fpaths&security=&encryption=none&host=braunschweig.global.ssl.fastly.net&type=xhttp#xhttp%7C%F0%9F%87%A9%F0%9F%87%AA
+vless://f0473759-b77b-4d24-bc59-bfbd0c85a4a5@91.98.152.121:80?mode=auto&path=%2Fpaths&security=none&encryption=none&host=braunschweig.global.ssl.fastly.net&type=xhttp#de-xhttp%7C%F0%9F%87%A9%F0%9F%87%AA
 vless://547ed4ec-07ba-49fb-a7d2-e4263cffad6b@enfield.global.ssl.fastly.net:80?mode=auto&path=%2Fpath&security=&encryption=none&host=enfield.global.ssl.fastly.net&type=xhttp#fr-xhttp%7C%F0%9F%87%B2%F0%9F%87%AB
-vless://1a9e0ffe-561d-47e4-8976-4e1b142338c1@94.182.152.201:2052?security=none&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%AB%F0%9F%87%B7
+vless://1a9e0ffe-561d-47e4-8976-4e1b142338c1@94.182.152.201:2052?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%AB%F0%9F%87%B7
 vless://afc19834-786d-4827-b141-e68735e7f76f@94.182.152.201:25057?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%BA%F0%9F%87%B2
 vless://c8d22274-9a5e-4118-b36d-99fbc55d424f@94.182.152.201:2095?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel-fast%F0%9F%87%A9%F0%9F%87%AA
 vless://1c28a05d-a133-42ef-9e2f-ee039fd34147@94.182.152.201:2086?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel-fast%F0%9F%87%AB%F0%9F%87%AE
