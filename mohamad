@@ -1,5 +1,4 @@
-vless://1185f55e-8b0a-4546-866c-a3e6b0aad878@18.132.114.69:80?mode=auto&path=%2Fpath&security=&encryption=none&host=hoiana.global.ssl.fastly.net&type=xhttp#uk-xhttp%F0%9F%87%AC%F0%9F%87%A7
-vless://2b3fcbb7-0667-41c4-ba48-77c7c415b134@34.253.221.183:80?mode=auto&path=%2Froberts&security=reality&encryption=none&pbk=aEhVirA9kyszPp3MxS3Ymh3JY2Xw7HxpviWB8pJN4Bw&host=milano221.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=7-zip.org&sid=58#reality%7C%F0%9F%87%AE%F0%9F%87%AA
+vless://041464b5-7439-4af5-a926-40d6388274fd@46.62.165.90:80?mode=auto&path=%2Fpaths&security=none&encryption=none&host=hoiana.global.ssl.fastly.net&type=xhttp#fin-xhttp%7C%F0%9F%87%AB%F0%9F%87%AE
 vless://547ed4ec-07ba-49fb-a7d2-e4263cffad6b@enfield.global.ssl.fastly.net:80?mode=auto&path=%2Fpath&security=&encryption=none&host=enfield.global.ssl.fastly.net&type=xhttp#fr-xhttp%7C%F0%9F%87%B2%F0%9F%87%AB
 vless://1a9e0ffe-561d-47e4-8976-4e1b142338c1@94.182.152.201:2052?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%AB%F0%9F%87%B7
 vless://afc19834-786d-4827-b141-e68735e7f76f@94.182.152.201:25057?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%BA%F0%9F%87%B2
@@ -13,4 +12,4 @@ vless://1d76c5ae-acaf-4687-a694-8a858538c784@94.182.152.201:16879?security=&encr
 vless://7f038882-6879-4bbf-8d97-91956d82bcd3@94.182.152.201:2087?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%AC%F0%9F%87%A7
 vless://472ff27e-669b-4e9a-a641-5e96f1cbaf3a@94.182.152.201:2053?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%A9%F0%9F%87%AA
 vless://52b914c4-cfc0-48d4-ab5c-222123985c65@94.182.152.201:33942?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%B8%F0%9F%87%AA
-vless://1155f4da-bd64-426b-98fd-ea16f0aa94b7@94.182.152.201:2089?security=none&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%B1%F0%9F%87%BA
+vless://1155f4da-bd64-426b-98fd-ea16f0aa94b7@94.182.152.201:2089?security=&encryption=none&host=Blubank.com&headerType=http&type=tcp#tunnel%F0%9F%87%B1%F0%9F%87%BA
