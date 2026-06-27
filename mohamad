@@ -1,5 +1,5 @@
+vless://b571ca3a-15c4-4242-80f7-8e4f77d29d85@44.245.159.66:2086?security=none&encryption=none&headerType=http&type=tcp#Vless-us%7C%F0%9F%87%BA%F0%9F%87%B2
 vless://da298565-b828-4d15-b1c1-ad3ec5995d98@13.40.48.152:8880?security=&encryption=none&host=aparat.com&headerType=http&type=tcp#uk-ws%7C%F0%9F%87%AC%F0%9F%87%A7
-vless://e16eb826-3d14-4f3d-8a34-e3fed30b2d41@44.245.159.66:2086?security=&encryption=none&host=incytel.com&headerType=http&type=tcp#us-ws%7C%F0%9F%87%BA%F0%9F%87%B2
 vless://cc8058e0-4e77-4c54-898f-18669ea9748a@13.40.101.71:2086?security=&encryption=none&host=aparat.com&headerType=http&type=tcp#uk-tcp%7C%F0%9F%87%AC%F0%9F%87%A7
 vless://d8937850-bcc6-47e6-9ef9-6e6af1760297@15.237.193.43:2086?security=&encryption=none&host=aparat.com&headerType=http&type=tcp#FR-TCP%7C%F0%9F%87%B2%F0%9F%87%AB
 vless://61a23567-ed6b-44a8-b676-894ae145b24a@liangollen.marinoo.store:2087?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=liangollen.marinoo.store&fp=chrome&type=ws&allowInsecure=0&sni=liangollen.marinoo.store#vless-ws-tls%7C%F0%9F%87%B2%F0%9F%87%AB
